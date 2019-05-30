@@ -1,0 +1,6 @@
+/home/prasanna/stackroute/springjdbcTemplate/src/main/java/com/stackroute/springJdbc/domain/Movie.java
+/home/prasanna/stackroute/springjdbcTemplate/src/main/java/com/stackroute/springJdbc/controller/SpringJdbcController.java
+/home/prasanna/stackroute/springjdbcTemplate/src/main/java/com/stackroute/springJdbc/repository/SpringJdbcRepository.java
+/home/prasanna/stackroute/springjdbcTemplate/src/main/java/Main.java
+/home/prasanna/stackroute/springjdbcTemplate/src/main/java/com/stackroute/springJdbc/config/SpringJdbcConfig.java
+/home/prasanna/stackroute/springjdbcTemplate/src/main/java/com/stackroute/springJdbc/mapper/MovieRowMapper.java
